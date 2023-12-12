@@ -31,7 +31,7 @@ h1 {
   justify-content: center;
 }
 h2 {
-  font-size: 50px;
+  font-size: 40px;
   display: flex;
   justify-content: center;
 }
@@ -63,8 +63,8 @@ h2 {
 }
 
 .app input {
-  padding: 0.7rem 1.5rem;
-  font-size: 1.2rem;
+  padding: 12px 25px;
+  font-size: 20px;
   border-radius: 25px;
   border: 1px solid rgba(255, 255, 255, 0.8);
   background: rgba(255, 255, 255, 0.1);
@@ -73,8 +73,8 @@ h2 {
 }
 
 .app button {
-  padding: 0.7rem 1.5rem;
-  font-size: 1.2rem;
+  padding: 12px 25px;
+  font-size: 20px;
   border-radius: 20px;
   border: 1px solid rgba(255, 255, 255, 0.8);
   background: rgba(255, 255, 255, 0.1);
@@ -86,7 +86,7 @@ h2 {
   max-width: 600px;
   height: 350px;
   margin: auto;
-  padding: 0 1rem;
+  padding: 0 16px;
   position: relative;
   top: 10%;
   display: flex;
@@ -96,7 +96,7 @@ h2 {
 
 .app .top {
   width: 100%;
-  margin: 1rem auto;
+  margin: 16px auto;
 }
 .app .time {
   display: flex;
@@ -104,13 +104,12 @@ h2 {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-
-  margin: 1rem auto;
-  padding: 1rem;
+  margin: auto;
+  padding: 2px;
 }
 .app .description {
   display: flex;
-  margin: 30px;
+  margin: 10px;
   align-items: center;
   border-radius: 20px;
   background: rgba(255, 255, 255, 0.2);
@@ -122,8 +121,8 @@ h2 {
   justify-content: space-evenly;
   text-align: center;
   width: 100%;
-  margin: 1rem auto;
-  padding: 1rem;
+  margin: 16px auto;
+  padding: 10px;
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.1);
 }
