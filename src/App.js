@@ -14,7 +14,7 @@ export default function App() {
       setData(result);
     } catch (error) {
       console.error("Error fetching data:", error);
-      // Handle errors here
+     
     }
   };
 
